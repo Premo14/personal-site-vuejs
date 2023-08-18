@@ -8,7 +8,6 @@
       <MDBNavbarNav>
         <MDBNavbarItem to="/"> Home </MDBNavbarItem>
         <MDBNavbarItem to="resume"> Resume </MDBNavbarItem>
-        <MDBNavbarItem to="skills"> Skills </MDBNavbarItem>
         <MDBNavbarItem href="https://github.com/premo14" new-tab> Github </MDBNavbarItem>
         <MDBNavbarItem href="https://linkedin.com/in/anthony-premo" new-tab> LinkedIn </MDBNavbarItem>
         <MDBNavbarItem to="contact"> Contact </MDBNavbarItem>

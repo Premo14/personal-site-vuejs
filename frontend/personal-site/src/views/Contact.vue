@@ -7,5 +7,5 @@
   </div>
 </template>
 <script setup lang="ts">
-import Contact from "../components/Contact.vue";
+import '../assets/Contact.css'
 </script>
