@@ -8,6 +8,8 @@ services:
       VIRTUAL_PROTO: http
     expose:
       - 80
+    volumes:
+      - /home/aj/Code/personal-site-vuejs/frontend/personal-site:/app
   nginx-proxy:
     image: jwilder/nginx-proxy
     ports:

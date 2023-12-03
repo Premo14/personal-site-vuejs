@@ -5,8 +5,8 @@ COPY ./personal-site/package*.json ./
 RUN npm install
 COPY ./personal-site/ .
 RUN npm run build
-#EXPOSE 80
-#CMD ["npm", "run", "dev"]
+EXPOSE 80
+CMD ["npm", "run", "dev"]
 
 # production stage
 FROM nginx:stable-alpine as production-stage

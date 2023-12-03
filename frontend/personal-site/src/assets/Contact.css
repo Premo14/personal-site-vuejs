@@ -1,3 +1,7 @@
+body {
+    background-color: black;
+}
+
 #contactInfoBox {
     float: none;
     text-align: center;

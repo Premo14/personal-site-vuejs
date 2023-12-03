@@ -1,8 +1,5 @@
 body {
     background-color: black;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, .5)), url("resumeBackground.png");
-    background-size: cover;
-    background-repeat: no-repeat;
     color: #f2f2f2;
 }
 

@@ -6,11 +6,11 @@
     ></MDBNavbarToggler>
     <MDBCollapse id="navbarNav" v-model="collapse2">
       <MDBNavbarNav>
-        <MDBNavbarItem to="/"> Home </MDBNavbarItem>
-        <MDBNavbarItem to="resume"> Resume </MDBNavbarItem>
+        <MDBNavbarItem to="/"> Resume </MDBNavbarItem>
         <MDBNavbarItem href="https://github.com/premo14" new-tab> Github </MDBNavbarItem>
         <MDBNavbarItem href="https://linkedin.com/in/anthony-premo" new-tab> LinkedIn </MDBNavbarItem>
         <MDBNavbarItem to="contact"> Contact </MDBNavbarItem>
+        <MDBNavbarItem to="weather"> Weather </MDBNavbarItem>
       </MDBNavbarNav>
     </MDBCollapse>
   </MDBNavbar>
